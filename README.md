@@ -41,9 +41,9 @@ This script uses Selenium to scrape TikTok posts based on predefined search term
 
 Run the script:
 
-    ```bash
+   ```bash
     python Script.py
-    ```
+   ```
 
 ## Functions
 
@@ -86,13 +86,13 @@ df.to_csv('ScrapingTikTokPost.csv', index=False)
 
 ## License (Continued)
 
-This project is licensed under the [Issame].
+This project is licensed under My name Issame.
 
 ## Contact
 
 For questions, feedback, or further assistance, feel free to contact:
 
 - **Your Name**
-  - Email: [your-email@example.com](mailto:issamalgoubahi@gmail.com)
+  - Email: [issamalgoubahi@gmail.com](mailto:issamalgoubahi@gmail.com)
   - GitHub: [Elgoubbahi-Issame](https://github.com/Elgoubbahi-Issame/)
 
